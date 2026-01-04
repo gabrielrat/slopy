@@ -1,0 +1,22 @@
+
+.logo {
+  float: left;
+  color: white;
+  font-size: 20px;
+  margin: 0 24px 0 0;
+}
+
+.ant-layout-header .ant-menu {
+  line-height: 64px;
+}
+
+.site-layout-content {
+  background: #fff;
+  padding: 24px;
+  min-height: 280px;
+}
+
+.slope-map-label {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+  transform: translateY(+35px);
+}
